@@ -1,21 +1,11 @@
 # Neural-PDE-Solver
 
-## 🤝 Looking for Collaborators | 寻找协作者
 
 This is an open-source repository for **Neural-PDE-Solver**, a curated collection of literature on solving **Partial Differential Equations (PDEs)** using **Neural Operators**. The goal is to track recent progress and organize related papers systematically.
 
 I am currently looking for collaborators to **help maintain and expand** this repository. Ideal contributors can take initiative in adding new papers, improving structure, or tagging key techniques. I will **check in on the repository weekly to follow progress**, but ongoing updates will be **mainly handled by collaborators**.
 
 If you are interested in neural PDE solvers and would like to contribute, feel free to submit a PR, open an issue, or reach out directly via email: **bitzhangcy@gmail.com**.
-
-— *Chunyang Zhang*
-
-这是一个开源文献整理仓库，聚焦于利用**神经算子（Neural Operator）**求解**偏微分方程（PDE）**的最新研究进展，旨在系统性地追踪和整理该领域的论文资料。
-
-目前我正在寻找对该方向感兴趣的朋友，**一起维护和完善**这个仓库。欢迎协作者主动添加新论文、优化结构或标注关键方法等。未来的更新将**主要由协作者负责**，我会**每周关注一下仓库的进展情况**。
-
-如果你对 Neural PDE Solver 感兴趣，欢迎通过 PR、issue 或直接邮件联系我：**bitzhangcy@gmail.com**
-
 
 ## [Content](#content)
 <table>
