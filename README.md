@@ -5,7 +5,6 @@ This is an open-source repository for **Neural-PDE-Solver**, a curated collectio
 
 I am currently looking for collaborators to **help maintain and expand** this repository. Ideal contributors can take initiative in adding new papers, improving structure, or tagging key techniques. I will **check in on the repository weekly to follow progress**, but ongoing updates will be **mainly handled by collaborators**.
 
-If you are interested in neural PDE solvers and would like to contribute, feel free to submit a PR, open an issue, or reach out directly via email: **bitzhangcy@gmail.com**.
 
 ## [Content](#content)
 <table>
